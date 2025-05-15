@@ -1,0 +1,62 @@
+*.mp4
+*.zip
+*.exe
+*.pt
+# Visual Studio cache/temp files
+*.obj
+*.pch
+*.idb
+*.pdb
+*.ipch
+*.aps
+*.ncb
+*.sdf
+*.cache
+*.dbmdl
+*.VC.db
+*.VC.VC.opendb
+
+# Build results
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+*.exe
+*.dll
+*.lib
+*.exp
+*.log
+
+# MFC-specific
+*.aps
+*.clw
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio directories
+.vs/
+.vscode/
+
+# CMake cache (if used)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Backup and temporary files
+*~
+*.tmp
+*.bak
+
+# Generated files
+GeneratedFiles/
+
+# NuGet packages
+packages/
+*.nupkg
+
