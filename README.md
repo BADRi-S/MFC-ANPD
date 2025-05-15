@@ -32,6 +32,7 @@ This project combines a C++ MFC (Microsoft Foundation Class) GUI with a Python F
     ```bash
     git clone https://github.com/yourusername/number-plate-detection-mfc-python.git
     cd number-plate-detection-mfc-python/backend
+    Drive: https://drive.google.com/file/d/1s8HUQIi2Z5MA2NloON2LtB9v1uGhaPZt/view?usp=sharing
     ```
 
 2. **Install dependencies:**
